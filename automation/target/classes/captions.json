@@ -1,0 +1,28 @@
+{
+  "INPUT_PAGE": {
+    "EMPTY_FIRST_NAME": "Please supply your first name",
+    "EMPTY_LAST_NAME": "Please supply your last name",
+    "EMPTY_EMAIL": "Please supply your email address",
+    "EMPTY_PHONE": "Please supply your phone number",
+    "EMPTY_ADDRESS": "Please supply your street address",
+    "EMPTY_CITY": "Please supply your city",
+    "EMPTY_STATE": "Please select your state",
+    "EMPTY_ZIP_CODE": "Please supply your zip code",
+    "EMPTY_PROJECT_DESC": "Please supply a description of your project"
+  },
+  "ALERT_PAGE": {
+    "AUTOCLOSEABLE_SUCCESS_MESSAGE": "I'm an autocloseable success message. I will hide in 5 seconds.",
+    "NORMAL_SUCCESS_MESSAGE": "I'm a normal success message. To close use the appropriate button.",
+    "AUTOCLOSEABLE_WARNING_MESSAGE": "I'm an autocloseable warning message. I will hide in 3 seconds.",
+    "NORMAL_WARNING_MESSAGE": "I'm a normal warning message. To close use the appropriate button.",
+    "AUTOCLOSEABLE_DANGER_MESSAGE": "I'm an autocloseable danger message. I will hide in 5 seconds.",
+    "NORMAL_DANGER_MESSAGE": "I'm a normal danger message. To close use the appropriate button.",
+    "AUTOCLOSEABLE_INFO_MESSAGE": "I'm an autocloseable info message. I will hide in 6 seconds.",
+    "NORMAL_INFO_MESSAGE": "I'm a normal info message. To close use the appropriate button."
+  },
+  "LIST_BOX_PAGE": {
+    "LEFT_ITEM_1": "bootstrap-duallist",
+    "RIGHT_ITEM_1": "Cras justo odio",
+    "ITEM": "Vestibulum at eros"
+  }
+}
